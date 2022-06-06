@@ -1,6 +1,6 @@
 {
-  "name": "npm-git-repo-1",
-  "version": "0.0.1",
+  "name": "npm-git-repo-2",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "mine": "G-Rath/npm-git-repo-1"
-    }
+  "license": "ISC"
 }
